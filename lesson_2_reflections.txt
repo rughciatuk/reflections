@@ -11,3 +11,9 @@ How is the staging area different from the working directory and the repository?
 
 I think that it's differnt beacuse it's an between stage.
 I think that it's help me before upadateing  
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use it to have only the files i wanted to be added into the commint.
