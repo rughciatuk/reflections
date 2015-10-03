@@ -27,3 +27,10 @@ What are some situations when branches would be helpful in keeping your history 
 If you want to add a new feat but you dont now if it's will work with the game
 or if you make a change that is only acabbable in some case.
 With branches you can be more organsied and have differnt thing for diffenrt cases
+
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+Its make me understand how each commit is link up.
