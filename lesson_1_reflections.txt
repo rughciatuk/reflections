@@ -1,0 +1,49 @@
+
+How did viewing a diff between two verions of a file help you see the bug that was introduced?
+
+It's will let my see what was change between a working one and a not working one.
+Then I can go over every change and chack if it was ok or not.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If i have the entire history i can quickly check new stuff, like a new add on and i will alwayes a virson to fell back.
+Plus i can make differnt virsion of my project just by adding a new thing to one and than adding another to other one.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pro: Better verison contorll since you chose when to save.
+Better commit beacuse you need to add a text about what you did.
+
+Cons: The user might not remmber to save.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think that git let you commit multiple file beacuse alot of the time you will have acople of file which depend on each other.
+While in Google Drive you dont have edit to mutipale file beacuse they genrly dont depend on each other.
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+First you need to use git log then you can get the id of the commit you want to compere,
+then you use git diff to compere.
+I use that to check waht was differnt between two differnt committs
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+I think that useing version control will make me more confident to make changes beacuse i will have a working virson to fell into if somthing goes horibbly worng 
+
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use it in android studio and other project and when I need to colabrit
