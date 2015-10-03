@@ -17,3 +17,13 @@ I think that it's help me before upadateing
 How can you use the staging area to make sure you have one commit per logical change?
 
 I can use it to have only the files i wanted to be added into the commint.
+
+
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you want to add a new feat but you dont now if it's will work with the game
+or if you make a change that is only acabbable in some case.
+With branches you can be more organsied and have differnt thing for diffenrt cases
