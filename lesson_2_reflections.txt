@@ -1,0 +1,13 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+I think that when you init a folder it tells git to make it a reposity and beacuse git is meint to keep track of any rposity you can make change and any other git commend on that folder.
+We need to do taht beacuse how else will git now what is mant to be a git reposty and waht isn't.
+
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I think that it's differnt beacuse it's an between stage.
+I think that it's help me before upadateing  
