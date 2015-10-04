@@ -34,3 +34,10 @@ With branches you can be more organsied and have differnt thing for diffenrt cas
 How do the diagrams help you visualize the branch structure?
 
 Its make me understand how each commit is link up.
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the result of merging two branches is that we have one less branch.
+I think it's like that to show that now from one commit you can get to all the commit in both branches
