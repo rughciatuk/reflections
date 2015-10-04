@@ -36,3 +36,12 @@ What is the benefit of having a copy of the last known state of the remote store
 
 You can see what is the diff between you commit and the last thing 
 that you pull
+
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I will send a copy of what i am doing to other human and when she done she will send it back.
+It will be harder, beacuse when I need to marge it will get messy
+but it will be easy beacuse to get to use git is a bit of work.
