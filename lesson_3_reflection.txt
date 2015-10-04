@@ -12,3 +12,19 @@ Why might you want to always pull changes manually rather than having Git automa
 Beaucse if another person made a change you don't want
 ot if he and you made chages to the same thing its will
 create a conflict.
+
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+The diff is that forks is working only in git and its take one
+repos adn copy it's to your collaction of repos.
+Clones take an exciting repos and "copy" it to a new location
+it can be from GitHub or from your on computer.
+branches are new "direction" for the repos.
+I will use fork when I want to use someone else repos and add to it.
+I will use clones when I have somthing in other location and i want
+to copy it.
+I will use branches when I want to implument somthing that should 
+not be in the main version. 
