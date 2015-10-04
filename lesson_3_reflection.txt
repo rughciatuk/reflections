@@ -28,3 +28,11 @@ I will use clones when I have somthing in other location and i want
 to copy it.
 I will use branches when I want to implument somthing that should 
 not be in the main version. 
+
+
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can see what is the diff between you commit and the last thing 
+that you pull
