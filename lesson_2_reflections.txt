@@ -41,3 +41,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 the result of merging two branches is that we have one less branch.
 I think it's like that to show that now from one commit you can get to all the commit in both branches
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pro is that its mach faster then manually going over what change and adding it to a new file
