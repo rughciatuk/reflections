@@ -45,3 +45,12 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I will send a copy of what i am doing to other human and when she done she will send it back.
 It will be harder, beacuse when I need to marge it will get messy
 but it will be easy beacuse to get to use git is a bit of work.
+
+
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I whould made chagnes in diff branch when i think that other 
+human need to check it before its get add to the master branch.
+It's let all the pepole see what is going to happend before it's happend.
